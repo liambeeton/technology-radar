@@ -1,0 +1,1765 @@
+{
+	"version": "1.0",
+	"encoding": "UTF-8",
+	"feed": {
+		"xmlns": "http://www.w3.org/2005/Atom",
+		"xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+		"xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+		"id": {
+			"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values"
+		},
+		"updated": {
+			"$t": "2017-04-19T09:06:56.573Z"
+		},
+		"category": [
+			{
+				"scheme": "http://schemas.google.com/spreadsheets/2006",
+				"term": "http://schemas.google.com/spreadsheets/2006#list"
+			}
+		],
+		"title": {
+			"type": "text",
+			"$t": "Sheet1"
+		},
+		"link": [
+			{
+				"rel": "alternate",
+				"type": "application/atom+xml",
+				"href": "https://docs.google.com/a/saratoga.co.za/spreadsheets/d/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/pubhtml"
+			},
+			{
+				"rel": "http://schemas.google.com/g/2005#feed",
+				"type": "application/atom+xml",
+				"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values"
+			},
+			{
+				"rel": "http://schemas.google.com/g/2005#post",
+				"type": "application/atom+xml",
+				"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values"
+			},
+			{
+				"rel": "self",
+				"type": "application/atom+xml",
+				"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values?alt=json"
+			}
+		],
+		"author": [
+			{
+				"name": {
+					"$t": "matthewdk"
+				},
+				"email": {
+					"$t": "matthewdk@saratoga.co.za"
+				}
+			}
+		],
+		"openSearch$totalResults": {
+			"$t": "34"
+		},
+		"openSearch$startIndex": {
+			"$t": "1"
+		},
+		"entry": [
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cokwr"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "MS WebAPI"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: ASP.NET Web API. ASP.NET Web API is a framework use to build HTTP services. ASP.NET Web API is a platform for building RESTful applications on the .NET Framework., category: Languages & Frameworks, stage: Adopt, category_2: Tool, stage_2: On Hold"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cokwr"
+					}
+				],
+				"gsx$name": {
+					"$t": "MS WebAPI"
+				},
+				"gsx$description": {
+					"$t": "ASP.NET Web API. ASP.NET Web API is a framework use to build HTTP services. ASP.NET Web API is a platform for building RESTful applications on the .NET Framework."
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": "Tool"
+				},
+				"gsx$stage_2": {
+					"$t": "On Hold"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cpzh4"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "WCF"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Windows Communication Foundation (WCF) is a framework for building service-oriented applications. Using WCF, you can send data as asynchronous messages from one service endpoint to another. A service endpoint can be part of a continuously available service hosted by IIS, or it can be a service hosted in an application., category: Languages & Frameworks, stage: Adopt, category_2: Technique, stage_2: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cpzh4"
+					}
+				],
+				"gsx$name": {
+					"$t": "WCF"
+				},
+				"gsx$description": {
+					"$t": "Windows Communication Foundation (WCF) is a framework for building service-oriented applications. Using WCF, you can send data as asynchronous messages from one service endpoint to another. A service endpoint can be part of a continuously available service hosted by IIS, or it can be a service hosted in an application."
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": "Technique"
+				},
+				"gsx$stage_2": {
+					"$t": "Adopt"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cre1l"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "MVC"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: ASP.NET MVC framework is a lightweight, highly testable presentation framework that is integrated with existing ASP.NET features. Some of these integrated features are master pages and membership-based authentication., category: Languages & Frameworks, stage: Adopt, category_2: Platform, stage_2: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cre1l"
+					}
+				],
+				"gsx$name": {
+					"$t": "MVC"
+				},
+				"gsx$description": {
+					"$t": "ASP.NET MVC framework is a lightweight, highly testable presentation framework that is integrated with existing ASP.NET features. Some of these integrated features are master pages and membership-based authentication."
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": "Platform"
+				},
+				"gsx$stage_2": {
+					"$t": "Assess"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/chk2m"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Razer"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Razor is a markup syntax that lets you embed server-based code (Visual Basic and C#) into web pages.\r\n\r\nServer-based code can create dynamic web content on the fly, while a web page is written to the browser. When a web page is called, the server executes the server-based code inside the page before it returns the page to the browser. By running on the server, the code can perform complex tasks, like accessing databases.\r\n\r\nRazor is based on ASP.NET, and designed for creating web applications. It has the power of traditional ASP.NET markup, but it is easier to use, and easier to learn, category: Languages & Frameworks, stage: Adopt, category_2: Languages & Frameworks, stage_2: Trial"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/chk2m"
+					}
+				],
+				"gsx$name": {
+					"$t": "Razer"
+				},
+				"gsx$description": {
+					"$t": "Razor is a markup syntax that lets you embed server-based code (Visual Basic and C#) into web pages.\r\n\r\nServer-based code can create dynamic web content on the fly, while a web page is written to the browser. When a web page is called, the server executes the server-based code inside the page before it returns the page to the browser. By running on the server, the code can perform complex tasks, like accessing databases.\r\n\r\nRazor is based on ASP.NET, and designed for creating web applications. It has the power of traditional ASP.NET markup, but it is easier to use, and easier to learn"
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage_2": {
+					"$t": "Trial"
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/ciyn3"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "React"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: React is a declarative, efficient, and flexible JavaScript library for building user interfaces, category: Languages & Frameworks, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/ciyn3"
+					}
+				],
+				"gsx$name": {
+					"$t": "React"
+				},
+				"gsx$description": {
+					"$t": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces"
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/ckd7g"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "AngularJS"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: AngularJS (commonly referred to as \"Angular.js\" or \"AngularJS 1.X\") is a JavaScript-based open-source front-end web application framework  to address many of the challenges encountered in developing single-page applications., category: Languages & Frameworks, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/ckd7g"
+					}
+				],
+				"gsx$name": {
+					"$t": "AngularJS"
+				},
+				"gsx$description": {
+					"$t": "AngularJS (commonly referred to as \"Angular.js\" or \"AngularJS 1.X\") is a JavaScript-based open-source front-end web application framework  to address many of the challenges encountered in developing single-page applications."
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/clrrx"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Angular"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Angular (commonly referred to as \"Angular 2+\" or \"Angular 2\") is a TypeScript-based open-source front-end web application platform to address all of the parts of the developer's workflow while building complex web applications. Angular is a complete rewrite from the same team that built AngularJS., category: Languages & Frameworks, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/clrrx"
+					}
+				],
+				"gsx$name": {
+					"$t": "Angular"
+				},
+				"gsx$description": {
+					"$t": "Angular (commonly referred to as \"Angular 2+\" or \"Angular 2\") is a TypeScript-based open-source front-end web application platform to address all of the parts of the developer's workflow while building complex web applications. Angular is a complete rewrite from the same team that built AngularJS."
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cyevm"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "MS SQL"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Microsoft SQL Server is a relational database management system developed by Microsoft. As a database server, it is a software product with the primary function of storing and retrieving data as requested by other software applications., category: Platform, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cyevm"
+					}
+				],
+				"gsx$name": {
+					"$t": "MS SQL"
+				},
+				"gsx$description": {
+					"$t": "Microsoft SQL Server is a relational database management system developed by Microsoft. As a database server, it is a software product with the primary function of storing and retrieving data as requested by other software applications."
+				},
+				"gsx$category": {
+					"$t": "Platform"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cztg3"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "AWS RDS"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Amazon Relational Database Service (or Amazon RDS) is a distributed relational database service by Amazon Web Services (AWS). It is a web service running \"in the cloud\" designed to simplify the setup, operation, and scaling of a relational database for use in applications., category: Platform, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cztg3"
+					}
+				],
+				"gsx$name": {
+					"$t": "AWS RDS"
+				},
+				"gsx$description": {
+					"$t": "Amazon Relational Database Service (or Amazon RDS) is a distributed relational database service by Amazon Web Services (AWS). It is a web service running \"in the cloud\" designed to simplify the setup, operation, and scaling of a relational database for use in applications."
+				},
+				"gsx$category": {
+					"$t": "Platform"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d180g"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "C#"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines., category: Languages & Frameworks, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d180g"
+					}
+				],
+				"gsx$name": {
+					"$t": "C#"
+				},
+				"gsx$description": {
+					"$t": "C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines."
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d2mkx"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Entitiy Framework"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Entity Framework (EF) is an open source object-relational mapping (ORM) framework for ADO.NET., category: Languages & Frameworks, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d2mkx"
+					}
+				],
+				"gsx$name": {
+					"$t": "Entitiy Framework"
+				},
+				"gsx$description": {
+					"$t": "Entity Framework (EF) is an open source object-relational mapping (ORM) framework for ADO.NET."
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cssly"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "log4net"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Log4net is a C#-based logging utility., category: Languages & Frameworks, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cssly"
+					}
+				],
+				"gsx$name": {
+					"$t": "log4net"
+				},
+				"gsx$description": {
+					"$t": "Log4net is a C#-based logging utility."
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cu76f"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Automapper"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: AutoMapper uses a fluent configuration API to define an object-object mapping strategy. AutoMapper uses a convention-based matching algorithm to match up source to destination values., category: Languages & Frameworks, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cu76f"
+					}
+				],
+				"gsx$name": {
+					"$t": "Automapper"
+				},
+				"gsx$description": {
+					"$t": "AutoMapper uses a fluent configuration API to define an object-object mapping strategy. AutoMapper uses a convention-based matching algorithm to match up source to destination values."
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cvlqs"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Structure Map"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: StructureMap is a dependency injection (DI) or inversion of control (IoC) container for .Net, category: Languages & Frameworks, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cvlqs"
+					}
+				],
+				"gsx$name": {
+					"$t": "Structure Map"
+				},
+				"gsx$description": {
+					"$t": "StructureMap is a dependency injection (DI) or inversion of control (IoC) container for .Net"
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cx0b9"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Autofac"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Autofac is an open-source dependency injection (DI) or inversion of control (IoC), category: Languages & Frameworks, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/cx0b9"
+					}
+				],
+				"gsx$name": {
+					"$t": "Autofac"
+				},
+				"gsx$description": {
+					"$t": "Autofac is an open-source dependency injection (DI) or inversion of control (IoC)"
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d9ney"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Unity"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Unity is a dependency injection (DI) or inversion of control (IoC) container, category: Languages & Frameworks, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d9ney"
+					}
+				],
+				"gsx$name": {
+					"$t": "Unity"
+				},
+				"gsx$description": {
+					"$t": "Unity is a dependency injection (DI) or inversion of control (IoC) container"
+				},
+				"gsx$category": {
+					"$t": "Languages & Frameworks"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/db1zf"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "AWS SQS"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Amazon Simple Queue Service (Amazon SQS) is a distributed message queuing service. It supports programmatic sending of messages via web service applications as a way to communicate over the Internet., category: Platform, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/db1zf"
+					}
+				],
+				"gsx$name": {
+					"$t": "AWS SQS"
+				},
+				"gsx$description": {
+					"$t": "Amazon Simple Queue Service (Amazon SQS) is a distributed message queuing service. It supports programmatic sending of messages via web service applications as a way to communicate over the Internet."
+				},
+				"gsx$category": {
+					"$t": "Platform"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dcgjs"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "AWS EC2"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Amazon Elastic Compute Cloud (EC2) forms a central part of Amazon.com's cloud-computing platform, Amazon Web Services (AWS), by allowing users to rent virtual computers on which to run their own computer applications., category: Platform, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dcgjs"
+					}
+				],
+				"gsx$name": {
+					"$t": "AWS EC2"
+				},
+				"gsx$description": {
+					"$t": "Amazon Elastic Compute Cloud (EC2) forms a central part of Amazon.com's cloud-computing platform, Amazon Web Services (AWS), by allowing users to rent virtual computers on which to run their own computer applications."
+				},
+				"gsx$category": {
+					"$t": "Platform"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/ddv49"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Windows"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Microsoft Windows (or simply Windows) is a metafamily of graphical operating systems developed, marketed, and sold by Microsoft. It consists of several families of operating systems, each of which cater to a certain sector of the computing industry with the OS typically associated with IBM PC compatible architecture, category: Platform, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/ddv49"
+					}
+				],
+				"gsx$name": {
+					"$t": "Windows"
+				},
+				"gsx$description": {
+					"$t": "Microsoft Windows (or simply Windows) is a metafamily of graphical operating systems developed, marketed, and sold by Microsoft. It consists of several families of operating systems, each of which cater to a certain sector of the computing industry with the OS typically associated with IBM PC compatible architecture"
+				},
+				"gsx$category": {
+					"$t": "Platform"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d415a"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "AWS"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Amazon Web Services (AWS) is an on-demand cloud computing platforms. , category: Platform, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d415a"
+					}
+				],
+				"gsx$name": {
+					"$t": "AWS"
+				},
+				"gsx$description": {
+					"$t": "Amazon Web Services (AWS) is an on-demand cloud computing platforms. "
+				},
+				"gsx$category": {
+					"$t": "Platform"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d5fpr"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "SQL Management Studio"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: SQL Server Management Studio (SSMS) is a software application that is used for configuring, managing, and administering all components within Microsoft SQL Server., category: Tool, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d5fpr"
+					}
+				],
+				"gsx$name": {
+					"$t": "SQL Management Studio"
+				},
+				"gsx$description": {
+					"$t": "SQL Server Management Studio (SSMS) is a software application that is used for configuring, managing, and administering all components within Microsoft SQL Server."
+				},
+				"gsx$category": {
+					"$t": "Tool"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d6ua4"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Visual Studio"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web apps, web services and mobile apps. , category: Tool, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d6ua4"
+					}
+				],
+				"gsx$name": {
+					"$t": "Visual Studio"
+				},
+				"gsx$description": {
+					"$t": "Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web apps, web services and mobile apps. "
+				},
+				"gsx$category": {
+					"$t": "Tool"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d88ul"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "git"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Git is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people. It is a distributed revision control system., category: Platform, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/d88ul"
+					}
+				],
+				"gsx$name": {
+					"$t": "git"
+				},
+				"gsx$description": {
+					"$t": "Git is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people. It is a distributed revision control system."
+				},
+				"gsx$category": {
+					"$t": "Platform"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dkvya"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Slack"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Slack is a cloud-based team collaboration tool , category: Tool, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dkvya"
+					}
+				],
+				"gsx$name": {
+					"$t": "Slack"
+				},
+				"gsx$description": {
+					"$t": "Slack is a cloud-based team collaboration tool "
+				},
+				"gsx$category": {
+					"$t": "Tool"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dmair"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Hangouts"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Google Hangouts is a communication platform developed by Google which includes instant messaging, video chat, SMS and VOIP features, category: Tool, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dmair"
+					}
+				],
+				"gsx$name": {
+					"$t": "Hangouts"
+				},
+				"gsx$description": {
+					"$t": "Google Hangouts is a communication platform developed by Google which includes instant messaging, video chat, SMS and VOIP features"
+				},
+				"gsx$category": {
+					"$t": "Tool"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dnp34"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Dependency injection"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Dependency injection is a technique whereby one object supplies the dependencies of another object., category: Techniques, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dnp34"
+					}
+				],
+				"gsx$name": {
+					"$t": "Dependency injection"
+				},
+				"gsx$description": {
+					"$t": "Dependency injection is a technique whereby one object supplies the dependencies of another object."
+				},
+				"gsx$category": {
+					"$t": "Techniques"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dp3nl"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Unit Testing"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Unit testing is a software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use., category: Techniques, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dp3nl"
+					}
+				],
+				"gsx$name": {
+					"$t": "Unit Testing"
+				},
+				"gsx$description": {
+					"$t": "Unit testing is a software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use."
+				},
+				"gsx$category": {
+					"$t": "Techniques"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/df9om"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "App Logging"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Logging for applications, category: Techniques, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/df9om"
+					}
+				],
+				"gsx$name": {
+					"$t": "App Logging"
+				},
+				"gsx$description": {
+					"$t": "Logging for applications"
+				},
+				"gsx$category": {
+					"$t": "Techniques"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dgo93"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Object Mapping"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Mapping between objects using a mapping framework/tool, category: Techniques, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dgo93"
+					}
+				],
+				"gsx$name": {
+					"$t": "Object Mapping"
+				},
+				"gsx$description": {
+					"$t": "Mapping between objects using a mapping framework/tool"
+				},
+				"gsx$category": {
+					"$t": "Techniques"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/di2tg"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Continuous Integration"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Continuous integration (CI) is the practice of merging all developer working copies to a shared mainline several times a day., category: Techniques, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/di2tg"
+					}
+				],
+				"gsx$name": {
+					"$t": "Continuous Integration"
+				},
+				"gsx$description": {
+					"$t": "Continuous integration (CI) is the practice of merging all developer working copies to a shared mainline several times a day."
+				},
+				"gsx$category": {
+					"$t": "Techniques"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/djhdx"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Source Control"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the \"revision number\", \"revision level\", or simply \"revision\". Revisions can be compared, restored, and with some types of files, merged., category: Techniques, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/djhdx"
+					}
+				],
+				"gsx$name": {
+					"$t": "Source Control"
+				},
+				"gsx$description": {
+					"$t": "Version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the \"revision number\", \"revision level\", or simply \"revision\". Revisions can be compared, restored, and with some types of files, merged."
+				},
+				"gsx$category": {
+					"$t": "Techniques"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dw4je"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Collaboration"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Collaboration is the process of two or more people or organizations working together to realize or achieve something successfully., category: Techniques, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dw4je"
+					}
+				],
+				"gsx$name": {
+					"$t": "Collaboration"
+				},
+				"gsx$description": {
+					"$t": "Collaboration is the process of two or more people or organizations working together to realize or achieve something successfully."
+				},
+				"gsx$category": {
+					"$t": "Techniques"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dxj3v"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Continuous Deployment"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Continuous Deployment is the practice of continuously pushing to production new versions of software under development., category: Techniques, stage: Assess"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dxj3v"
+					}
+				],
+				"gsx$name": {
+					"$t": "Continuous Deployment"
+				},
+				"gsx$description": {
+					"$t": "Continuous Deployment is the practice of continuously pushing to production new versions of software under development."
+				},
+				"gsx$category": {
+					"$t": "Techniques"
+				},
+				"gsx$stage": {
+					"$t": "Assess"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			},
+			{
+				"id": {
+					"$t": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dyxo8"
+				},
+				"updated": {
+					"$t": "2017-04-19T09:06:56.573Z"
+				},
+				"category": [
+					{
+						"scheme": "http://schemas.google.com/spreadsheets/2006",
+						"term": "http://schemas.google.com/spreadsheets/2006#list"
+					}
+				],
+				"title": {
+					"type": "text",
+					"$t": "Agile Scrum"
+				},
+				"content": {
+					"type": "text",
+					"$t": "description: Scrum is an iterative and incremental agile software development framework for managing product development. It defines \"a flexible, holistic product development strategy where a development team works as a unit to reach a common goal\", challenges assumptions of the \"traditional, sequential approach\" to product development, and enables teams to self-organize by encouraging physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines involved., category: Techniques, stage: Adopt"
+				},
+				"link": [
+					{
+						"rel": "self",
+						"type": "application/atom+xml",
+						"href": "https://spreadsheets.google.com/feeds/list/1D9oNcoIwqCX0Lcgm-qbG3cVOHGq8q4_moVxC_SGMuak/od6/public/values/dyxo8"
+					}
+				],
+				"gsx$name": {
+					"$t": "Agile Scrum"
+				},
+				"gsx$description": {
+					"$t": "Scrum is an iterative and incremental agile software development framework for managing product development. It defines \"a flexible, holistic product development strategy where a development team works as a unit to reach a common goal\", challenges assumptions of the \"traditional, sequential approach\" to product development, and enables teams to self-organize by encouraging physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines involved."
+				},
+				"gsx$category": {
+					"$t": "Techniques"
+				},
+				"gsx$stage": {
+					"$t": "Adopt"
+				},
+				"gsx$criteriaforassessment": {
+					"$t": ""
+				},
+				"gsx$category_2": {
+					"$t": ""
+				},
+				"gsx$stage_2": {
+					"$t": ""
+				}
+			}
+		]
+	}
+}
