@@ -1,0 +1,29 @@
+{
+	"name": "technology-radar",
+	"version": "1.0.0",
+	"description": "A chart view of a technology radar",
+	"private": true,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/liambeeton/technology-radar.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/liambeeton/technology-radar/issues"
+	},
+	"homepage": "https://github.com/liambeeton/technology-radar#readme",
+	"devDependencies": {
+		"fusioncharts": "^3.13.1-sr.1",
+		"webpack": "^4.18.1",
+		"webpack-cli": "^3.1.0"
+	},
+	"dependencies": {
+		"lodash": "^4.17.11"
+	}
+}
